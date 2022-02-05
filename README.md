@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello
 
 <!--
 **SohanCSERU/SohanCSERU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![SohanCSERU's GitHub stats](https://github-readme-stats.vercel.app/api?username=SohanCSERU&count_private=true&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/SohanCSERU/My-Stats)                                                                                                                                  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SohanCSERU&layout=compact)](https://github.com/SohanCSERU/My-Stats)
